@@ -42,3 +42,44 @@ p{
 .link1:hover{
     transform: scale(1.03); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
+.iconlink{
+    margin-top: 50px;
+    margin-left: 610px;
+    display: flex;
+}
+
+#icon1{
+    height: 50px;
+    margin-right: 30px;
+    border-radius: 10px;
+    transition: transform .2s; /* Animation */
+}
+#icon1:hover{
+    transform: scale(1.03);
+}
+#icon2{
+    height: 50px;
+    margin-right: 30px;
+    transition: transform .2s; /* Animation */
+}
+#icon2:hover{
+    transform: scale(1.03);
+}
+#icon3{
+    height: 50px;
+    border-radius: 10px;
+    margin-right: 30px;
+    transition: transform .2s; /* Animation */
+}
+#icon3:hover{
+    transform: scale(1.03);
+}
+#icon4{
+    height: 50px;
+    border-radius: 10px;
+
+    transition: transform .2s; /* Animation */
+}
+#icon4:hover{
+    transform: scale(1.03);
+}

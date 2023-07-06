@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="30.615" height="30.615" viewBox="0 0 30.615 30.615">
-  <path id="Facebook-icon-SVG-09833" d="M897.865,576.308a15.308,15.308,0,1,0-15.308,15.308c.09,0,.179,0,.269,0V579.7h-3.289v-3.833h3.289v-2.82c0-3.271,2-5.051,4.914-5.051a26.966,26.966,0,0,1,2.949.151v3.418h-2.012c-1.588,0-1.9.755-1.9,1.862v2.441h3.8l-.495,3.833h-3.3v11.328a15.316,15.316,0,0,0,11.082-14.716Zm0,0" transform="translate(-867.25 -561)"/>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 455 455" xml:space="preserve">
+<path style="fill-rule:evenodd;clip-rule:evenodd;" d="M0,0v455h455V0H0z M301.004,125.217H265.44
+	c-7.044,0-14.153,7.28-14.153,12.696v36.264h49.647c-1.999,27.807-6.103,53.235-6.103,53.235h-43.798V385h-65.266V227.395h-31.771
+	v-53.029h31.771v-43.356c0-7.928-1.606-61.009,66.872-61.009h48.366V125.217z"/>
 </svg>
